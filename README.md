@@ -1,8 +1,1 @@
-# RPCS
-
-Opensource Platform for Collection and Analysis of Clinical Data
-
-
-- Dynamic Form Creation
-- Dynamic Quaries
-
+Archived repository - please use latest at https://github.com/hmislk/hmis
